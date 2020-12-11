@@ -1,0 +1,80 @@
+v1.2.2 (Feb 24, 2020)
+-----------------------------
+- Fixed 'data-vocabulary' schema warning in the breadcrumbs
+
+Files Updated:
+- includes/functions.php
+- includes/single.php
+- style.css
+
+
+v1.2.0 (Apr 14, 2019)
+-----------------------------
+- Added Complete integration with the Elementor page builder
+- Optimized style.css file to decrease the file size by 5KB
+- Fixed few PHPCS related issues
+
+
+v1.1.0 (Dec 07, 2018)
+-----------------------------
+- Added Complete Gutenberg support! (https://demo.mythemeshop.com/schema-lite/this-post-is-created-using-gutenberg-editor/)
+- Added Customizer option to change the box layout
+- Added Customizer option to remove the sidebar from the homepage
+- Added single post/page option to change the Box layout
+- Added single post/page option to change sidebar location
+- Added single post/page option to disable Header
+- Added single post/page option to disable footer
+- Added single post/page option to disable title
+- Added single post option to disable post meta
+- Added single post option to disable Author box
+- Added single post option to disable Related posts
+- Added single post option to disable Header
+- Fixed search form button hover issue
+- Fixed minor styling issues
+- Improved overall code according to PHP Coding Standards
+
+
+v1.0.7 (May 24, 2018)
+-----------------------------
+- Added GDPR compliant comment form
+
+
+v1.0.6 (Nov 3, 2017)
+-----------------------------
+- Improved escaping in the copyright area
+
+
+v1.0.5 (Nov 2, 2017)
+-----------------------------
+- Fixed incorrect prefixes
+- Fixed escaping issues
+- Added localization for date
+- Removed WooCommerce related unused code
+
+
+v1.0.4 (Oct 3, 2017)
+-----------------------------
+- Fixed escaping issue in the theme credit area
+
+
+v1.0.3 (Oct 02, 2017)
+-----------------------------
+- Fixed escaping issues
+- Removed unused code
+
+
+v1.0.2 (Oct 01, 2017)
+-----------------------------
+- Fixed logo title hiding bug in the Customizer
+- Fixed escaping in the archive post function
+- Added unique class name for the Social Media Widget
+
+
+v1.0.1 (Sep 28, 2017)
+-----------------------------
+- Fixed Navigation menu link hiding issue in the Customizer
+
+
+v1.0.0 (Jul 31, 2017)
+-----------------------------
+- Theme released

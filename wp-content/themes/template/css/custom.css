@@ -1,0 +1,17 @@
+@media (min-width: 992px){
+.masthead .masthead-heading {
+    font-size: 36px !important;
+    line-height: 3.5rem !important;
+    font-family: 'Battambang', sans-serif;
+}
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Battambang';
+    line-height: 37px !important;
+}
+li.page_item{
+    display: inline-block;
+    padding: 5px 10px;
+}

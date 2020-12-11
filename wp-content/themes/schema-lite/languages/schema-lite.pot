@@ -1,0 +1,1037 @@
+# Copyright (C) 2018 rank-math
+# This file is distributed under the same license as the rank-math package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Schema Lite by MyThemeShop\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: MyThemeShop\n"
+"Last-Translator: MyThemeShop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! We couldn't find this Page."
+msgstr ""
+
+#: 404.php:19
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:14
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14 functions.php:694 single.php:47
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:39
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:40
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:44
+msgid "Name"
+msgstr ""
+
+#: comments.php:47
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:50
+msgid "Website"
+msgstr ""
+
+#: comments.php:52
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: functions.php:57
+msgid "Top"
+msgstr ""
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: functions.php:118 inc/class-schema-metaboxes.php:46
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:130
+msgid "First footer column"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:141
+msgid "Second footer column"
+msgstr ""
+
+#: functions.php:151
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:152
+msgid "Third footer column"
+msgstr ""
+
+#: functions.php:163
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: functions.php:164
+msgid "Appears on Shop main page and product archive pages."
+msgstr ""
+
+#: functions.php:172
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:173
+msgid "Appears on single product pages."
+msgstr ""
+
+#: functions.php:338
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:338
+msgid "Y"
+msgstr ""
+
+#: functions.php:354 inc/customizer.php:164
+msgid "Theme by"
+msgstr ""
+
+#: functions.php:357
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:381
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:386
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:437
+msgid "[Continue reading...]"
+msgstr ""
+
+#: functions.php:455
+msgid "Home"
+msgstr ""
+
+#: functions.php:548
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:554
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:691 single.php:44
+msgid "By"
+msgstr ""
+
+#: functions.php:694 single.php:47
+msgid "0 Comments"
+msgstr ""
+
+#: functions.php:694 single.php:47
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:830
+msgid "Like Schema theme? You will <strong>LOVE Schema Pro</strong>!"
+msgstr ""
+
+#: functions.php:830
+msgid "Click here for all the exciting features."
+msgstr ""
+
+#: functions.php:873
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/widget-social.php:58
+msgid "Facebook URI"
+msgstr ""
+
+#: functions/widget-social.php:62
+msgid "Behance URI"
+msgstr ""
+
+#: functions/widget-social.php:66
+msgid "Flickr URI"
+msgstr ""
+
+#: functions/widget-social.php:70
+msgid "Google+ URI"
+msgstr ""
+
+#: functions/widget-social.php:74
+msgid "Pinterest URI"
+msgstr ""
+
+#: functions/widget-social.php:78
+msgid "Instagram URI"
+msgstr ""
+
+#: functions/widget-social.php:82
+msgid "Dribbble URI"
+msgstr ""
+
+#: functions/widget-social.php:86
+msgid "Linkedin URI"
+msgstr ""
+
+#: functions/widget-social.php:90
+msgid "Soundcloud URI"
+msgstr ""
+
+#: functions/widget-social.php:94
+msgid "Twitter URI"
+msgstr ""
+
+#: functions/widget-social.php:98
+msgid "Vimeo URI"
+msgstr ""
+
+#: functions/widget-social.php:102
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: functions/widget-social.php:106
+msgid "Tumblr URI"
+msgstr ""
+
+#: functions/widget-social.php:110
+msgid "GitHub URI"
+msgstr ""
+
+#: functions/widget-social.php:114
+msgid "YouTube URI"
+msgstr ""
+
+#: functions/widget-social.php:118
+msgid "FourSquare URI"
+msgstr ""
+
+#: functions/widget-social.php:122
+msgid "Reddit URI"
+msgstr ""
+
+#: functions/widget-social.php:126
+msgid "Dropbox URI"
+msgstr ""
+
+#: functions/widget-social.php:130
+msgid "Skype URI"
+msgstr ""
+
+#: functions/widget-social.php:134
+msgid "Email URI"
+msgstr ""
+
+#: functions/widget-social.php:138
+msgid "RSS URI"
+msgstr ""
+
+#: functions/widget-social.php:145
+msgid "Show profile icons."
+msgstr ""
+
+#: functions/widget-social.php:152
+msgid "Schema Social Profile Icons"
+msgstr ""
+
+#: functions/widget-social.php:168
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-social.php:170
+msgid "Open links in new window?"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:86
+msgid "Menu"
+msgstr ""
+
+#: inc/class-mts-rmu.php:42
+msgid "Try it for FREE!"
+msgstr ""
+
+#: inc/class-mts-rmu.php:43
+msgid "Click here to activate it."
+msgstr ""
+
+#: inc/class-mts-rmu.php:46
+#, php-format
+msgid "The new %1$s plugin will help you rank better in the search results."
+msgstr ""
+
+#: inc/class-mts-rmu.php:48
+#, php-format
+msgid "The %1$s plugin is installed but not activated."
+msgstr ""
+
+#: inc/class-mts-rmu.php:223
+msgid "Rank Math SEO"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:16
+msgid "Point Settings"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:48 inc/class-schema-metaboxes.php:57
+msgid "Default"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:49 inc/customizer.php:66
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:50 inc/customizer.php:65
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:51 inc/customizer.php:67
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:55
+msgid "Content Layout"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:58 inc/customizer.php:47
+msgid "Boxed"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:59 inc/customizer.php:48
+msgid "Full Width / Contained"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:60 inc/customizer.php:49
+msgid "Full Width / Stretched"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:65
+msgid "Disable Header"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:66
+msgid "Disable Title"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:70
+msgid "Disable Post Meta"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:71
+msgid "Disable Related Posts"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:72
+msgid "Disable Author Box"
+msgstr ""
+
+#: inc/class-schema-metaboxes.php:74
+msgid "Disable Footer"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "MyThemeShop Mission Control Center"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Styling Settings"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Default Container"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Posts on Homepage"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Excerpts"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Full Posts"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:123 inc/customizer.php:140
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Next/Previous"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Numbered"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Copyrights Text"
+msgstr ""
+
+#: inc/customizer.php:170
+#, php-format
+msgid "You can change or remove our link from footer and use your own custom text.(You can also use your affiliate link to earn 70% of sales. Ex: https://mythemeshop.com/?ref=username)"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Breadcrumb Section"
+msgstr ""
+
+#: inc/customizer.php:199 inc/customizer.php:217 inc/customizer.php:235
+#: inc/customizer.php:253
+msgid "OFF"
+msgstr ""
+
+#: inc/customizer.php:200 inc/customizer.php:218 inc/customizer.php:236
+#: inc/customizer.php:254
+msgid "ON"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Tags Section"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Related Posts Section"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Author box Section"
+msgstr ""
+
+#: inc/plugin-activation.php:333 inc/plugin-activation.php:3910
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:334 inc/plugin-activation.php:3911
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:335 inc/plugin-activation.php:3912
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:336 inc/plugin-activation.php:3913
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugin-activation.php:339
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:345 inc/plugin-activation.php:3914
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:351
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:357
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:363
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:369
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:375
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:381 inc/plugin-activation.php:3915
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:387
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:392 inc/plugin-activation.php:3916
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:397
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:402 inc/plugin-activation.php:3917
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:406 inc/plugin-activation.php:3918
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugin-activation.php:407
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:408 inc/plugin-activation.php:3159
+#: inc/plugin-activation.php:3919
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:409 inc/plugin-activation.php:2962
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:410
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugin-activation.php:411
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/plugin-activation.php:412
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugin-activation.php:413
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugin-activation.php:414
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin-activation.php:533
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugin-activation.php:534
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugin-activation.php:648
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugin-activation.php:836 inc/plugin-activation.php:3540
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:943
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugin-activation.php:943 inc/plugin-activation.php:946
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugin-activation.php:946
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugin-activation.php:1124 inc/plugin-activation.php:2958
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugin-activation.php:1285 inc/plugin-activation.php:3938
+msgid "MyThemeShop"
+msgstr ""
+
+#: inc/plugin-activation.php:1311
+msgid "Available Separately"
+msgstr ""
+
+#: inc/plugin-activation.php:1922
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugin-activation.php:2207
+msgid "Required"
+msgstr ""
+
+#: inc/plugin-activation.php:2210 inc/plugin-activation.php:4044
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2226
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugin-activation.php:2229
+msgid "Mythemeshop"
+msgstr ""
+
+#: inc/plugin-activation.php:2232
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugin-activation.php:2249 inc/plugin-activation.php:2442
+#: inc/plugin-activation.php:4198
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugin-activation.php:2253
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugin-activation.php:2255 inc/plugin-activation.php:4131
+msgid "Active"
+msgstr ""
+
+#: inc/plugin-activation.php:2261
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugin-activation.php:2264
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2267
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2275
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2320
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2323
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2326
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2329
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2443
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:2444
+#, php-format
+msgid "Source: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:2447
+msgid "Visit plugin site"
+msgstr ""
+
+#: inc/plugin-activation.php:2465
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugin-activation.php:2473
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2481
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2493
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2516
+#, php-format
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/plugin-activation.php:2530
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:2531
+msgid "Description"
+msgstr ""
+
+#: inc/plugin-activation.php:2586
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2590
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2595
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2700
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugin-activation.php:2733
+msgid "Install"
+msgstr ""
+
+#: inc/plugin-activation.php:2739
+msgid "Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2742
+msgid "Activate"
+msgstr ""
+
+#: inc/plugin-activation.php:2773
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2775
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2811
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2813
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2918
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2944
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3464
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3466
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugin-activation.php:3467
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3471
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3472
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3473
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3474
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3477
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3478
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3479
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3480
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3772
+msgid "WP Tab Widget Pro is the most powerful plugin for showing recommended content on blog posts to increase engagement and keep visitors on your site purpose."
+msgstr ""
+
+#: inc/plugin-activation.php:3783
+msgid "Create reviews! Choose from Stars, Percentages, Circles or Points for review scores. Supports Retina Display, WPMU & Unlimited Color Schemes."
+msgstr ""
+
+#: inc/plugin-activation.php:3794
+msgid "These days, having an email subscriber list is key to running a successful blog, so we created WP Subscribe Pro. Boost your conversions of traffic to subscribers, and generate more residual traffic and earnings. WP Subscribe Pro supports Feedburner, MailChimp and Aweber and is a must-have plugin for any blog."
+msgstr ""
+
+#: inc/plugin-activation.php:3805 inc/plugin-activation.php:3844
+msgid "WP Quiz is a completely FREE quiz plugin that will let you create endlessly customizable and highly professional quizzes for your WordPress site."
+msgstr ""
+
+#: inc/plugin-activation.php:3816
+msgid "WP Notification Bar is a custom notification and alert bar plugin for WordPress which is perfect for marketing promotions, alerts, increasing click throughs to other pages and so much more."
+msgstr ""
+
+#: inc/plugin-activation.php:3825
+msgid "WP Mega Menu is an easy to use plugin for creating beautiful, customized menus for your site. With no setup required, tons of options to choose from, and the ability to show categories, subcategories and posts, WP MegaMenu is a must have plugin that also boosts SEO and user engagement."
+msgstr ""
+
+#: inc/plugin-activation.php:3855
+msgid "My WP Backup Pro is the best way to protect your data and website in the event of adverse server events, data corruption, hacking and more. With the option to schedule backups and have them delivered via email, Amazon S3, and lots of other features, you can sleep easy knowing you're protected."
+msgstr ""
+
+#: inc/plugin-activation.php:3920
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/plugin-activation.php:4039
+msgid "Essential"
+msgstr ""
+
+#: inc/plugin-activation.php:4071
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:4072
+#, php-format
+msgid "MyThemeShop and third party plugins recommended for %s theme!"
+msgstr ""
+
+#: inc/plugin-activation.php:4119
+msgid "Get Pro Version!"
+msgstr ""
+
+#: inc/plugin-activation.php:4133
+msgid "Manage Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:4136
+msgid "Inactive"
+msgstr ""
+
+#: inc/plugin-activation.php:4150
+msgid "Activate Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:4157
+msgid "Update Now"
+msgstr ""
+
+#: inc/plugin-activation.php:4162
+msgid "Get it!"
+msgstr ""
+
+#: inc/plugin-activation.php:4178
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:4275
+msgid "Loading..."
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid " Older posts"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgid "Newer posts "
+msgstr ""
+
+#: page.php:40 single.php:64
+msgid "Next"
+msgstr ""
+
+#: page.php:41 single.php:65
+msgid "Previous"
+msgstr ""
+
+#: search.php:25
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:4 sidebar.php:25
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:31
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:39
+msgid "Meta"
+msgstr ""
+
+#: single.php:74
+msgid "Tags"
+msgstr ""
+
+#: single.php:103
+msgid "Related Posts"
+msgstr ""
+
+#: single.php:145
+msgid "About Author"
+msgstr ""
